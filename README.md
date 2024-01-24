@@ -1,5 +1,5 @@
 # GitHubIntro
-Material for workshop in the AUL network Digitale metoder
+Material for workshop in the AUL network Digitale metoder 
 
 
 # Markdown guide
