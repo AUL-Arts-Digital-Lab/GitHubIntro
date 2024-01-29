@@ -8,9 +8,9 @@ Material for workshop in the AUL network Digitale metoder
 ## Inspiration for creating a markdown file: 
 
 ### Repositories
-[AfkodKunsten material](https://github.com/maxodsbjerg/AfkodKunsten)
-[Strik og Kod](https://github.com/AUL-Arts-Digital-Lab/strik-og-kod)
-[TextMiningStCroix](https://github.com/AUL-Arts-Digital-Lab/TextMiningStCroixAvis)
+[AfkodKunsten material](https://github.com/maxodsbjerg/AfkodKunsten)  
+[Strik og Kod](https://github.com/AUL-Arts-Digital-Lab/strik-og-kod)  
+[TextMiningStCroix](https://github.com/AUL-Arts-Digital-Lab/TextMiningStCroixAvis)  
 
 ### Gists
 [Searching in Mediestream -general](https://gist.github.com/maxodsbjerg/e2dd484d3c9dcaa9c422a861d6a93f6e)
